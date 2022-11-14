@@ -26,7 +26,7 @@ header{
     width: 4px !important;
     border-radius: 100% !important;
     border: solid 2px white;
-    /* transform: translate(-50%, -3000%); */
+    transform: translate(-50%, -3000%);
     background-color: black;
 } 
 
